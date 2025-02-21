@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955038159540",
+    "project_id": "flbp-pro",
+    "storage_bucket": "flbp-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955038159540:android:a15361b4d43b614273fde1",
+        "android_client_info": {
+          "package_name": "com.example.flutterboilerplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHkSWxbElKzVQCUZYZ-U5PasgeOoCPlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
