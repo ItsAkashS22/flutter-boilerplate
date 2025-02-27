@@ -10,7 +10,7 @@ class Configuration {
 
   static Future<void> initializeConfigurations() async {
     flavor = Flavor.values.byName(appFlavor ?? Flavor.prod.name);
-    await dotenv.load(fileName: "env/${flavor.name}/.env");
+    await dotenv.load(fileName: "env/${flavor.name}.env");
     firebaseOptions = FirebaseOptions(
       apiKey: Platform.isAndroid
           ? dotenv.get("API_KEY_ANDROID")

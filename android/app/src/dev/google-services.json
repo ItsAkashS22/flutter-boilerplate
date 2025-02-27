@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1060133682592",
-    "project_id": "flbp-dev",
-    "storage_bucket": "flbp-dev.appspot.com"
+    "project_number": "174448960807",
+    "project_id": "advancedflutterboilerplate",
+    "storage_bucket": "advancedflutterboilerplate.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1060133682592:android:6758019780b027ebe938c5",
+        "mobilesdk_app_id": "1:174448960807:android:7b2d3e16d846fed6c8f502",
         "android_client_info": {
           "package_name": "com.example.flutterboilerplate.dev"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAH_bSTTkYXuTSHFrzZliEDHCF4zhhG1ZU"
+          "current_key": "AIzaSyD6iXxbrogy1c226I7lyVO9R9h7EwXKYNs"
         }
       ],
       "services": {
